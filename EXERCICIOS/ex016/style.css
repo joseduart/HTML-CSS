@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(243, 149, 35);
+}
+h1{
+    color: rgb(186, 216, 78);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+}
+h2{
+    color: brown;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
